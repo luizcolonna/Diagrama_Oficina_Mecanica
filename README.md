@@ -23,8 +23,3 @@ Clientes levam veículos à oficina para manutenção, revisão ou conserto. Cad
 - Cada **ordem de serviço** é atribuída a uma única **equipe**.
 - Cada **equipe** pode ter vários **mecânicos**.
 - Uma **OS** pode incluir vários **serviços** e utilizar várias **peças** (relacionamento N:N com entidades associativas).
-
-## 📝 Modelo Conceitual (ER)
-
-Diagrama Entidade-Relacionamento que representa a estrutura do sistema:
-
